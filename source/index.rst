@@ -84,6 +84,10 @@ Specialized Tools and Techniques
 Notes
 =====
 
+.. note:: **Important Note**: At the moment these notes are for an **advanced** class 
+          so the below notes suggest skipping slides and resources that I assume an attendee 
+          at an advanced class should know.  If you are not ready for an advanced class then 
+          **don't skip anything**!
 
 Tony Ayad FLL Programming Beginner and Advanced
 -----------------------------------------------
