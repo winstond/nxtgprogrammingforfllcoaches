@@ -24,6 +24,15 @@ Sources
    * Therefore, most notes simply refer to the slide/presentation I'm working from.
    * So I'll start by listing their fine resources.
 
+Sample Programs
+---------------
+
+Here are the programs I used during the training:
+
+:download:`Download Programming Examples <./AdvancedFLLProgramming.zip>`
+
+.. note:: I *don't* provide the My Block examples here.  However, the versions I went through in class are *ready* to be easily turned into My Blocks - try it!
+
 References
 ----------
    
