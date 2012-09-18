@@ -21,8 +21,8 @@ Sources
 .. note:: 
 
    * I'm using other coaches fine presentation materials for the most part. 
-   * Therefore, most notes simply refer to the slide/presentation I'm working from
-   * So I'll start by listing their fine resources
+   * Therefore, most notes simply refer to the slide/presentation I'm working from.
+   * So I'll start by listing their fine resources.
 
 References
 ----------
